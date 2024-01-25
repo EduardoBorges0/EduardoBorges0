@@ -1,7 +1,7 @@
 
 **Oi, eu sou o Eduardo Borges** 
 
-- I’m currently learning JavaScript & ReactJS
+- I’m currently learning Python
 <div>
   <a href="https://github.com/EduardoBorges0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBorges0&show_icons=true&theme=dracula&count_private=true"/>
