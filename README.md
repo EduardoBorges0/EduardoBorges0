@@ -4,7 +4,7 @@
 
 <img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=B64A32&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=B64A32&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo;I'm+18+years+old;I'm+a+Android+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=B64A32&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+My+name+is+Eduardo;I'm+19+years+old;I'm+a+Mobile+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoBorges0&show_icons=true&count_private=true&hide_border=true&title_color=B64A32&icon_color=B64A32&text_color=B64A32&bg_color=0d1117" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoBorges0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&show_icons=true&count_private=true&hide_border=true&title_color=B64A32&icon_color=B64A32&text_color=B64A32&bg_color=0d1117" height="170" alt="languages graph"/>
