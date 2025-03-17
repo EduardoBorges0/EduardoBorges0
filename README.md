@@ -14,11 +14,9 @@
   <br/>
 <img src="https://github.com/EduardoBorges0/EduardoBorges0/assets/113848266/684454e6-0792-46ae-b606-b7eb86959e15" />
 </div>
+  <img width="4" />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" padding = "3" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" padding = "3" alt="python logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" padding = "3" alt="kotlin logo"  />
   <img width="13" />
