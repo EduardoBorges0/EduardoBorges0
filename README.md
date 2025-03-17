@@ -10,8 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoBorges0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&show_icons=true&count_private=true&hide_border=true&title_color=B64A32&icon_color=B64A32&text_color=B64A32&bg_color=0d1117" height="170" alt="languages graph"/>
 </div>
 
-
-###
+<div align="center">
+  <br/>
+<img src="https://github.com/EduardoBorges0/EduardoBorges0/assets/113848266/684454e6-0792-46ae-b606-b7eb86959e15" />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" padding = "3" alt="javascript logo"  />
@@ -31,9 +33,5 @@
   <a href="https://www.linkedin.com/in/eduardoo-borges/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-<div align="center">
-  <br/>
-<img src="https://github.com/EduardoBorges0/EduardoBorges0/assets/113848266/684454e6-0792-46ae-b606-b7eb86959e15" />
 </div>
 
