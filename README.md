@@ -6,7 +6,7 @@
 
 Meu nome é **Eduardo Borges**. Atualmente, moro no **Rio de janeiro, Brasil** e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde **2024** venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde **2023** venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
 
 Também realizo postagens no Linkedin e em comunidades, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹
 
@@ -18,7 +18,7 @@ Também realizo postagens no Linkedin e em comunidades, explorando novos conceit
 - 🎂 **Idade:** 19 Anos   
 - 📍 **Localização:** Rio de Janeiro, RJ, Brasil   
 - 💻 **Stack:** Android Nativo
-- 📚 **Aprendizado Atual:** Kotlin, Java, React Native
+- 📚 **Aprendizado Atual:** Kotlin, Java, Spring 
 - 🎓 **Formação:** Técnologo em Análise e Desenvolvimento de Sistemas.
 
 ## 😎 Curiosidades sobre Mim
