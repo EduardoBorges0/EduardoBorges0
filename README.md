@@ -13,6 +13,8 @@
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white
 )
 ![JetpackCompose](https://img.shields.io/badge/jetpack%20compose-%234285F4.svg?style=for-the-badge&logo=jetpackCompose&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Dart Badge](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
