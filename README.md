@@ -13,10 +13,6 @@ Participo de comunidades de tecnologia, escrevo no LinkedIn e acredito em aprend
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=EduardoBorges0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoo-borges/)
