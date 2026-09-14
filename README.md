@@ -1,4 +1,4 @@
-<img src="https://undertale-souls.fandom.com/wiki/Perseverance" width="60" align="left" alt="Perseverance SOUL" />
+<img src="./assets/perseverance-soul.jpg" width="60" align="left" alt="Perseverance SOUL" />
 <sub><i>"Despite every ending telling me to stop, I kept walking."</i></sub>
 
 <br clear="left">
