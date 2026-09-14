@@ -1,18 +1,13 @@
-<sub><i>"Despite every ending telling me to stop, I kept walking."</i></sub>
 
 <br clear="left">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2ECC71&center=true&vCenter=true&width=560&lines=whoami+-%3E+builder;stack%3A+python+%2B+fastapi+%2B+docker;mode%3A+autodidata+%2F%2F+open+source;training(self)+-%3E+continuous" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2ECC71&center=true&vCenter=true&width=1060&lines=Despite+every+ending+telling+me+to+stop%2C+I+kept+walking." alt="typing-svg" />
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/status-shipping-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/modo-aprender_em_público-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/open_source-fã_confesso-informational?style=for-the-badge" />
-</div>
+
 
 <br>
 
@@ -76,20 +71,13 @@ $ cat manifesto.md
 ## 📊 Métricas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoBorges0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBorges0&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoBorges0&theme=tokyonight&hide_border=true" />
 </div>
-
-## 🧪 Rodando agora
-
-- [ ] Fine-tuning de LLM open source pra um caso de uso real
-- [ ] API em FastAPI + Docker pra servir modelo em produção
-- [ ] Pipeline de dados do zero, sem gambiarra (tentando)
-- [ ] Projeto com ESP32 conversando com uma API própria
 
 ## 🌐 Contato
 
