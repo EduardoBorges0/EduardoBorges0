@@ -1,4 +1,3 @@
-<img src="./assets/perseverance-soul.png" width="60" align="left" alt="Perseverance SOUL" />
 <sub><i>"Despite every ending telling me to stop, I kept walking."</i></sub>
 
 <br clear="left">
